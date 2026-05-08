@@ -1,1 +1,86 @@
-# primavera
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primavera Vibrante en México</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Primavera en México</h1>
+
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Destinos</a></li>
+            <li><a href="#">Cultura</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <section class="info-primavera">
+        <h2>¿Qué significa la Primavera en México?</h2>
+
+        <p>
+            La primavera en México es más que una simple estación; es una celebración del renacimiento de la tierra y la cultura.
+            Comienza oficialmente con el equinoccio de marzo, un evento que marca el equilibrio perfecto entre el día y la noche.
+            En todo el país, el paisaje se transforma: los desiertos florecen con cactus vibrantes, las ciudades se llenan del morado de las jacarandas y los sitios arqueológicos se convierten en centros de energía donde miles de personas se reúnen para "cargarse de luz" y dar la bienvenida al nuevo ciclo agrícola y vital.
+            Es una época de festivales, color y una energía contagiosa.
+        </p>
+    </section>
+
+    <div class="flex-container">
+
+        <article>
+            <img src="https://images.unsplash.com/photo-1522748906645-95d8adfd52c7?auto=format&fit=crop&w=400&q=80"
+                 alt="Jacarandas en CDMX">
+
+            <h3>Las Jacarandas</h3>
+
+            <p>
+                En la CDMX, las calles se tiñen de un morado mágico y vibrante con la llegada de estas flores icónicas.
+            </p>
+        </article>
+
+        <article>
+            <img src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?auto=format&fit=crop&w=400&q=80"
+                 alt="Chichén Itzá">
+
+            <h3>Equinoccio</h3>
+
+            <p>
+                Miles visitan Chichén Itzá para presenciar el descenso de Kukulcán,
+                el fenómeno arqueoastronómico más famoso del mundo.
+            </p>
+        </article>
+
+        <article>
+            <img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=400&q=80"
+                 alt="Mercado de Flores en México">
+
+            <h3>Colorido Nacional</h3>
+
+            <p>
+                La primavera resalta la biodiversidad y los explosivos mercados de flores
+                que llenan de alegría cada rincón del país.
+            </p>
+        </article>
+
+    </div>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 - Carlos David Armenta Velazquez</p>
+</footer>
+
+</body>
+</html>
